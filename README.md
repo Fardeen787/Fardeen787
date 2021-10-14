@@ -82,8 +82,8 @@
  # 📈 Stats
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pratikpatil116&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikpatil116&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Fardeen787show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fardeen787&theme=tokyonight" />
 </p>
 
 [![Fardeen's github activity graph](https://activity-graph.herokuapp.com/graph?username=Fardeen787&theme=xcode)](https://git.io/Fardeen787)
