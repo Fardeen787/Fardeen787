@@ -72,11 +72,11 @@
   
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikpatil116&theme=juicyfresh" alt="pratikpatil116" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Fardeen787&theme=juicyfresh" alt="Fardeen787" /></a> </p>
 
 
 
-<p align="center" ><img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikpatil116&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pratikpatil116" /></p>
+<p align="center" ><img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fardeen787&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Fardeen787" /></p>
 
 
  # 📈 Stats
