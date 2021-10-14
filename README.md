@@ -86,7 +86,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikpatil116&theme=tokyonight" />
 </p>
 
-[![Pratik's github activity graph](https://activity-graph.herokuapp.com/graph?username=Pratikpatil116&theme=xcode)](https://git.io/Pratikpatil116)
+[![Fardeen's github activity graph](https://activity-graph.herokuapp.com/graph?username=Fardeen787&theme=xcode)](https://git.io/Fardeen787)
 
     
   
