@@ -19,21 +19,21 @@
     
  
 <!-- <h1 align="center">Explore => Learn => Code :)</h1> -->
- <h3 align="center">Currently a third-year Computer Technology major at MIT AOE Pune with minor in AWS Cloud.</h3>
+ <h3 align="center">Currently a third-year Computer Technology major at MIT AOE Pune with minor in Frontend Web and AWS Cloud.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikpatil116&label=Profile%20views&color=0e75b6&style=flat" alt="pratikpatil116" /> </p>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
   
 - 🌱 I’m currently learning **C++,DS/Algo/AWSCloud** </br>
-- 🎥 I regularly uploads YouTube Video on:-  https://bit.ly/3zOyQls
 
-- 💬 Ask me about **C++ , Front-end Development**
 
-- 📫 How to reach me **itspratikcodehelp@gmail.com**
+- 💬 Ask me about **C++ , Front-end Development,AWS Cloud**
+
+- 📫 How to reach me **ffkhan@mitaoe.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pratik0783" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratik0783" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/pratik-patil-99921a193?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bafm9npnyRxqVdaVm2m5wXQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratik patil" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/fardeen-khan-690069213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratik patil" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100008415699101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pratik patil" height="30" width="40" /></a>
 <a href="https://www.instagram.com/tension_not_pratik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tension_not_pratik" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCL-ApgREG5oNmW7RZdYt1_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tension not pratik" height="30" width="40" /></a>
