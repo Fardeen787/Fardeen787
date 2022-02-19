@@ -30,17 +30,6 @@
 
 - 📫 How to reach me **ffkhan@mitaoe.ac.in**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pratik0783" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratik0783" height="30" width="40" /></a>
-<a href="https://likedin.com" target="blank"><img align="center" src="https://www.linkedin.com/in/fardeen-khan-690069213/" alt="pratik patil" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100008415699101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pratik patil" height="30" width="40" /></a>
-<a href="https://www.instagram.com/tension_not_pratik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tension_not_pratik" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCL-ApgREG5oNmW7RZdYt1_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tension not pratik" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pratik0116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pratik0116" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/pratik_chalisga1?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pratik patil" height="30" width="40" /></a> 
-<a href="https://auth.geeksforgeeks.org/user/pratikchalisgaon/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pratik patil" height="30" width="40" /></a> 
-</p> 
 
 
 <h3 align="left">Languages and Tools:</h3>
