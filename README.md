@@ -6,14 +6,14 @@ img align="right" src="https://raw.githubusercontent.com/akshitagupta15june/aksh
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=Explore+=>+Learn+=>+Code...;Always+Trying+to+Figured+Out+Best+Things.;Welcome+To+My+Profile...)](https://git.io/typing-svg)
 
- 
+<!--  
    <h1 align="center">
   <a>
     <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/left.png">
     Explore => Learn => Code 
     <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/right.png">
   </a>
-</h1> 
+</h1>  -->
     
    
     
